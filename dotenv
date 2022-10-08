@@ -1,0 +1,6 @@
+# copy the contents of this file as .env and use python package loadenv to set environment variables
+#obtain sheet id from open spreadsheet in the url https://docs.google.com/spreadsheets/d/SHEET_ID is here/
+SHEET_ID=
+TARGET_SHEET_ID=
+
+
